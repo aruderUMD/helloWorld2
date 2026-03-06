@@ -1,0 +1,41 @@
+/* Basic page defaults */
+body {
+  font-family: Arial, sans-serif;
+  color: #222000;
+  background-color: white;
+}
+
+/* Level 2 headers with rules */
+h2 {
+  font-family: Arial, sans-serif;
+  color: #00008b;
+}
+
+/* Paragraph rules */
+p {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Third paragraph rules */
+#paragraph3 {
+  color: #0000ff;
+  font-style: italic;
+}
+
+/* Rule block for class attribute */
+.specialtext {
+  font-weight: bold;
+    color:#8b0000;
+}
+/* Table borders */
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+/* Image sizing for logo */
+img.logo {
+  width: 267px;
+  height: 72px;
+}
